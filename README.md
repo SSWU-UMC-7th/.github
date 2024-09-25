@@ -1,1 +1,2 @@
-# .github
+# 🔮 SSWU-UMC-7TH 🔮
+### UNIVERSITY MAKEUS CHALLENGE
